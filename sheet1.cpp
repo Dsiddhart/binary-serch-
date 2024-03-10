@@ -1,5 +1,6 @@
     
-    
+    find x command in sorted array
+
     
     int res =-1;
     int start=0;
